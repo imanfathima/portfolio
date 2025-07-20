@@ -204,3 +204,18 @@ text-decoration-color: yellowgreen;
 .ep{
     font-family: serif;
 }
+.ex{
+    color: white;
+    margin-top: 76px;
+}
+.exu{
+    text-decoration:underline;
+    text-decoration-color: yellowgreen;
+
+
+}
+
+.exa{
+    text-align: left;
+    margin-top: 35px;
+}
