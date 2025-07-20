@@ -192,3 +192,15 @@ justify-content: space-evenly;
 .all{
     margin-top: -2px;
 }
+.eduh{
+
+    font-weight: 700;
+    font-size: 79px;
+text-decoration: underline ;
+text-decoration-color: yellowgreen;
+    text-underline-offset:40px;
+    
+}
+.ep{
+    font-family: serif;
+}
