@@ -250,3 +250,32 @@ border-radius: 12px;
     height: 250px;
     width: 500px
 }
+.ci{
+    margin-left: 40px;
+}
+.i{
+    width: 200px;
+    
+    color:yellowgreen;
+    margin-top:300px;
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.c{
+    color: white;
+}
+.m{
+    margin-left: 60px;
+    
+}
+.f{
+    margin-left: 70px;
+}
+.e{
+    margin-left:77px ;
+     font-size: 40px;
+    
+    color:yellowgreen;
+    margin-top:300px;
+}
