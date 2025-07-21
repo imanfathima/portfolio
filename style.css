@@ -158,20 +158,22 @@ justify-content: space-evenly;
 }
 .abt{
     font-family: 'sans-serif';
-    font-size: 55px;
-    font-weight:1000;
+    
+    font-weight:10;
     margin-top: -4px;
     margin-left: 300px;
+    text-decoration: underline;
+    text-decoration-color: yellowgreen;
 }
 .abtp{
     margin-left: 100px;
-    line-height-step: 15px;
-    font-size: 20px;
+
+    font-size: 15px;
 }
 .abtskill{
     margin-left: 100px;
-    font-size: 30px;
-    font-weight: 801;
+    font-size: 10px;
+
     
 }
 .abth2{
@@ -273,9 +275,12 @@ border-radius: 12px;
     margin-left: 70px;
 }
 .e{
-    margin-left:77px ;
+    margin-left:70px ;
      font-size: 40px;
     
     color:yellowgreen;
     margin-top:300px;
+}
+.k{
+    margin-left: 25px;
 }
