@@ -161,7 +161,7 @@ justify-content: space-evenly;
     
     font-weight:10;
     margin-top: -4px;
-    margin-left: 300px;
+    margin-left: 450px;
     text-decoration: underline;
     text-decoration-color: yellowgreen;
 }
@@ -169,6 +169,11 @@ justify-content: space-evenly;
     margin-left: 100px;
 
     font-size: 15px;
+}
+.abp{
+    margin-left: 100px;
+
+    font-size: 17px;
 }
 .abtskill{
     margin-left: 100px;
@@ -185,7 +190,7 @@ justify-content: space-evenly;
     color:white;
     font-weight: 600;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 .abth{
     margin-left: 100px;
